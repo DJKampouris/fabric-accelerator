@@ -13,7 +13,7 @@ env:
   BRONZE_LH: lh_bronze_fabric_accelerator
   SILVER_LH: lh_silver_fabric_accelerator
   GOLD_DW: gold_fabric_accelerator
-  WIDE_WORLD_IMPORTERS_CONNECTION_ID: 248c254d-7580-4c8b-b2ff-878528e5771b
+  WIDE_WORLD_IMPORTERS_CONNECTION_ID: 159e26ed-aa75-4a2b-af7e-eb99966bba7f
 
 jobs:
   deploy-fabric-accelerator:
